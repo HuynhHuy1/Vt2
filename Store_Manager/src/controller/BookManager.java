@@ -17,7 +17,7 @@ public class BookManager extends AbstractManager<Book>{
         editItem(productID, updatedBook);
     }
 
-    public void deleteItem(String itemId){
+    public void deleteBook(String itemId){
         deleteItem(itemId);
         System.out.println("Delete book success");
     }

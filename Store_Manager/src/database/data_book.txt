@@ -1,3 +1,1 @@
-Book{yearPublished=2, genre='2'}Product{productID='A00', title='1', author='2', publisher='3', price=22.0, quantity=1}
-Book{yearPublished=2, genre='2'}Product{productID='A02', title='1', author='2', publisher='3', price=22.0, quantity=1}
-Book{yearPublished=2, genre='2'}Product{productID='A03', title='1', author='2', publisher='3', price=22.0, quantity=1}
+Book{productID='1', title='1', author='1', publisher='1', price=1.0, quantity=1, yearPublished=1, genre='1'}
